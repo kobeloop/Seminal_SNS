@@ -1,0 +1,21 @@
+#my-widget {
+    display: inline-block;
+    background:#d8d8ff;
+    border:#0000ff solid 1px;
+    padding: 10px;
+}
+h4.mw-title {
+    margin: 0;
+}
+ul.mw-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+a.mw-list-item-link {
+    text-decoration: none;
+}
+a.mw-list-item-link:hover {
+    color: #fff;
+    background-color: #0000FF;
+}
